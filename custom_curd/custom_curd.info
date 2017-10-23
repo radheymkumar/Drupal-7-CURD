@@ -1,0 +1,9 @@
+name = Custom - Custom Create Update Read Delete
+description = "Testing form Submission in custom table for Drupal."
+core = 7.x
+configure = admin/custom/table/list
+project = "CURD"
+datestamp = "1385568677"
+version = "7.x"
+core = "7.x"
+package = "CURD Module"
